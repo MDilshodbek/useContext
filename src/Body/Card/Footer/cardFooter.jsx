@@ -16,7 +16,7 @@ const CardFooter = ({ id }) => {
   };
 
   return (
-    <div className="flex justify-around">
+    <div className="flex justify-center">
       <Modal
         title="Edit title!"
         open={open}
